@@ -1,0 +1,2 @@
+D, [2017-12-10T21:43:47.785064 #1240] DEBUG -- :   [1m[36mStudent Load (1.6ms)[0m  [1mSELECT "students".* FROM "students"[0m
+E, [2017-12-10T21:43:47.785365 #1240] ERROR -- : SQLite3::SQLException: no such table: students: SELECT "students".* FROM "students"
